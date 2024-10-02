@@ -1,1 +1,2 @@
 public class PostsController
+public putMappingEditPost
